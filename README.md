@@ -10,7 +10,15 @@ First Mile is our full service integration software linking your POS to our gate
 
 ### WebPay Hosted Payment Page
 
-The hosted payment page
+The hosted payment page. Customers are redirected from your e-comm site to enter final payment information. This keeps you out of scope for credit card security compliance.
+
+### SOAP Integration
+
+Use our webservice to generate a SOAP request to our gateway.
+
+### XML Integration
+
+You can send transactions directly to our gateway via HTTP Post.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
