@@ -8,6 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 First Mile is our full service integration software linking your POS to our gateway and keeping you out of PCI scope
 
+[First Mile Integration Guide](
+
 ### WebPay Hosted Payment Page
 
 The hosted payment page. Customers are redirected from your e-comm site to enter final payment information. This keeps you out of scope for credit card security compliance.
