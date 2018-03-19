@@ -47,7 +47,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Merchant Partners ISV Integration Support
 
-Bill McLaughlin-
-email: bill.mclaughlin@merchantpartners.com
-phone: 844-581-7896 ext. 250 
+  Bill McLaughlin
+
+  email: bill.mclaughlin@merchantpartners.com
+
+  phone: 844-581-7896 ext. 250 
 
