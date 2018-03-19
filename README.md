@@ -6,7 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### First Mile POS Middleware
 
+First Mile is our full service integration software linking your POS to our gateway and keeping you out of PCI scope
+
 ### WebPay Hosted Payment Page
+
+The hosted payment page
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
