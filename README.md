@@ -10,6 +10,8 @@ First Mile is our full service integration software linking your POS to our gate
 
 [First Mile Integration Guide](https://github.com/bill-integration/Integration-Guides/blob/master/First%20Mile/I_first_mile_middleware_guide%20(3).pdf)
 
+[First Mile Software Download](https://www.onlinemerchantcenter.com/docs/first_mile_middleware.taf)
+
 ### WebPay Hosted Payment Page
 
 The hosted payment page. Customers are redirected from your e-comm site to enter final payment information. This keeps you out of scope for credit card security compliance.
