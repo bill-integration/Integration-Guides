@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 First Mile is our full service integration software linking your POS to our gateway and keeping you out of PCI scope
 
-[First Mile Integration Guide](
+[First Mile Integration Guide](https://github.com/bill-integration/Integration-Guides/blob/master/First%20Mile/I_first_mile_middleware_guide%20(3).pdf)
 
 ### WebPay Hosted Payment Page
 
