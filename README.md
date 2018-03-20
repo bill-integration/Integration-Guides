@@ -1,8 +1,6 @@
 ## Merchant Partners Integration
 
-You can use the [editor on GitHub](https://github.com/bill-integration/Integration-Guides/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Merchant Partners offers a variety of integration methods to let your business connect to our gateway. To read our integration guides please log in to your test account at https://www.onlinemerchantcenter.com/admin/login.taf in another tab.
 
 ### First Mile POS Middleware
 
@@ -15,6 +13,8 @@ First Mile is our full service integration software linking your POS to our gate
 ### WebPay Hosted Payment Page
 
 The hosted payment page. Customers are redirected from your e-comm site to enter final payment information. This keeps you out of scope for credit card security compliance.
+
+[Webpay Integration Guide](https://www.onlinemerchantcenter.com/docs/isv/I_WebPay_Integration_Guide.pdf)
 
 ### SOAP Integration
 
