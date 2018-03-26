@@ -20,6 +20,8 @@ The hosted payment page. Customers are redirected from your e-comm site to enter
 
 Use our webservice to generate a SOAP request to our gateway.
 
+[Soap Integration Guide](https://www.onlinemerchantcenter.com/docs/isv/I_SOAP_Integration_Guide.pdf)
+
 ### XML Integration
 
 You can send transactions directly to our gateway via HTTP Post.
