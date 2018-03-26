@@ -16,6 +16,8 @@ The hosted payment page. Customers are redirected from your e-comm site to enter
 
 [Webpay Integration Guide](https://www.onlinemerchantcenter.com/docs/isv/I_WebPay_Integration_Guide.pdf)
 
+[Webpay Sample Integration](https://github.com/bill-integration/Webpay-Sample-Integration)
+
 ### SOAP Integration
 
 Use our webservice to generate a SOAP request to our gateway.
