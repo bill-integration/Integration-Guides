@@ -30,6 +30,11 @@ You can send transactions directly to our gateway via HTTP Post.
 
 [XML Integration Guide](https://www.onlinemerchantcenter.com/docs/isv/I_XML_Integration_Guide.pdf)
 
+### Authorize.net Emulation
+
+The Merchant Partners Gateway supports Authorize.net emulation for a variety of shopping carts. A list of the compatible carts can be found here: https://www.onlinemerchantcenter.com/mpartners/html/compatible_carts.html 
+If you don't see your shopping cart on the list it might still be able to connect to our gateway. A shopping cart that uses A.I.M. (Advanced Integration Method) and allows you to set the endpoint URL will be able to integrate with us. The only fields the cart should be asking you for are an account ID and a PIN number. If it's asking for any other information from you it won't be compatible.
+
 
 
 
