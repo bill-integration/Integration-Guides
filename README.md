@@ -26,6 +26,8 @@ Use our webservice to generate a SOAP request to our gateway.
 
 You can send transactions directly to our gateway via HTTP Post.
 
+[XML Integration Guide](https://www.onlinemerchantcenter.com/docs/isv/I_XML_Integration_Guide.pdf)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
