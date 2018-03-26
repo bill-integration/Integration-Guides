@@ -30,27 +30,7 @@ You can send transactions directly to our gateway via HTTP Post.
 
 [XML Integration Guide](https://www.onlinemerchantcenter.com/docs/isv/I_XML_Integration_Guide.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
 ### Merchant Partners ISV Integration Support
